@@ -1,5 +1,4 @@
 # DLMoD
-The models.py file defines a set of advanced deep learning models, including ResNet, DenseNet, MIL, VIT, and CapsuleNet, all inheriting from a unified AdvancedSetup base class. Each model architecture is configured with a customizable forward pass, while AdvancedSetup provides shared, advanced training and validation functions.
 
 This repository provides a collection of advanced deep learning models, including ResNet, DenseNet, Multiple Instance Learning (MIL), Vision Transformer (VIT), and CapsuleNet, all built with an extensible AdvancedSetup base class. Each model benefits from a consistent training setup with advanced features like per-epoch metric tracking, flexible pooling, and checkpointing.
 
